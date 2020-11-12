@@ -1,4 +1,5 @@
 # hello-world
 testing
 
-Hey, I'm creating this to work on C#, python, and some web development stuff.
+Learning the basics of GitHub while working my way through my
+Bachelor's degree program in Software Development.
